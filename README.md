@@ -19,6 +19,8 @@ below were checked on 2026-06-16.
 Deep research notes for VLA / WAM training-data gaps are tracked in
 [docs/VLA_WAM_DATASET_GAP_RESEARCH.md](docs/VLA_WAM_DATASET_GAP_RESEARCH.md).
 
+The [Data Pyramid audit](docs/DATA_PYRAMID_COVERAGE.md) checks the November 2026 survey against this catalog. The [LeRobot conversion backlog](docs/DATA_PYRAMID_CONVERSION_GAPS.md) lists unverified releases separately, including a paper-tables-only view.
+
 ## Contents
 
 - [2026](#2026)
