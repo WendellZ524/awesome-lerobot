@@ -1,0 +1,472 @@
+{
+  "huggingface_datasets": [
+    {
+      "id": "airoa-org/airoa-moma",
+      "url": "https://huggingface.co/datasets/airoa-org/airoa-moma"
+    },
+    {
+      "id": "yixuan-tan/EgoDex-LeRobot-v3.0",
+      "url": "https://huggingface.co/datasets/yixuan-tan/EgoDex-LeRobot-v3.0"
+    },
+    {
+      "id": "wengmister/toaster",
+      "url": "https://huggingface.co/datasets/wengmister/toaster"
+    },
+    {
+      "id": "wengmister/orange_cube_pnp_with_force",
+      "url": "https://huggingface.co/datasets/wengmister/orange_cube_pnp_with_force"
+    },
+    {
+      "id": "wengmister/box_pnp",
+      "url": "https://huggingface.co/datasets/wengmister/box_pnp"
+    },
+    {
+      "id": "lerobot/droid_1.0.1",
+      "url": "https://huggingface.co/datasets/lerobot/droid_1.0.1"
+    },
+    {
+      "id": "lerobot/aloha_sim_transfer_cube_human",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_sim_transfer_cube_human"
+    },
+    {
+      "id": "lerobot/aloha_sim_transfer_cube_scripted",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_sim_transfer_cube_scripted"
+    },
+    {
+      "id": "lerobot/aloha_sim_insertion_human",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_sim_insertion_human"
+    },
+    {
+      "id": "lerobot/aloha_sim_insertion_scripted",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_sim_insertion_scripted"
+    },
+    {
+      "id": "lerobot/aloha_sim_transfer_cube_human_image",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_sim_transfer_cube_human_image"
+    },
+    {
+      "id": "lerobot/aloha_sim_transfer_cube_scripted_image",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_sim_transfer_cube_scripted_image"
+    },
+    {
+      "id": "lerobot/aloha_sim_insertion_human_image",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_sim_insertion_human_image"
+    },
+    {
+      "id": "lerobot/aloha_sim_insertion_scripted_image",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_sim_insertion_scripted_image"
+    },
+    {
+      "id": "lerobot/aloha_mobile_cabinet",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_mobile_cabinet"
+    },
+    {
+      "id": "lerobot/aloha_mobile_chair",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_mobile_chair"
+    },
+    {
+      "id": "lerobot/aloha_mobile_elevator",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_mobile_elevator"
+    },
+    {
+      "id": "lerobot/aloha_mobile_shrimp",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_mobile_shrimp"
+    },
+    {
+      "id": "lerobot/aloha_mobile_wash_pan",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_mobile_wash_pan"
+    },
+    {
+      "id": "lerobot/aloha_mobile_wipe_wine",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_mobile_wipe_wine"
+    },
+    {
+      "id": "lerobot/aloha_static_battery",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_static_battery"
+    },
+    {
+      "id": "lerobot/aloha_static_candy",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_static_candy"
+    },
+    {
+      "id": "lerobot/aloha_static_coffee",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_static_coffee"
+    },
+    {
+      "id": "lerobot/aloha_static_coffee_new",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_static_coffee_new"
+    },
+    {
+      "id": "lerobot/aloha_static_cups_open",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_static_cups_open"
+    },
+    {
+      "id": "lerobot/aloha_static_fork_pick_up",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_static_fork_pick_up"
+    },
+    {
+      "id": "lerobot/aloha_static_screw_driver",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_static_screw_driver"
+    },
+    {
+      "id": "lerobot/aloha_static_tape",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_static_tape"
+    },
+    {
+      "id": "lerobot/aloha_static_thread_velcro",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_static_thread_velcro"
+    },
+    {
+      "id": "lerobot/aloha_static_towel",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_static_towel"
+    },
+    {
+      "id": "lerobot/aloha_static_vinh_cup",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_static_vinh_cup"
+    },
+    {
+      "id": "lerobot/aloha_static_vinh_cup_left",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_static_vinh_cup_left"
+    },
+    {
+      "id": "lerobot/aloha_static_ziploc_slide",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_static_ziploc_slide"
+    },
+    {
+      "id": "lerobot/aloha_static_pingpong_test",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_static_pingpong_test"
+    },
+    {
+      "id": "lerobot/aloha_static_pro_pencil",
+      "url": "https://huggingface.co/datasets/lerobot/aloha_static_pro_pencil"
+    },
+    {
+      "id": "lerobot/umi_cup_in_the_wild",
+      "url": "https://huggingface.co/datasets/lerobot/umi_cup_in_the_wild"
+    },
+    {
+      "id": "nvidia/BridgeData2_LeRobot_v3",
+      "url": "https://huggingface.co/datasets/nvidia/BridgeData2_LeRobot_v3"
+    },
+    {
+      "id": "lerobot/libero_10_image",
+      "url": "https://huggingface.co/datasets/lerobot/libero_10_image"
+    },
+    {
+      "id": "lerobot/pusht",
+      "url": "https://huggingface.co/datasets/lerobot/pusht"
+    },
+    {
+      "id": "lerobot/pusht_image",
+      "url": "https://huggingface.co/datasets/lerobot/pusht_image"
+    },
+    {
+      "id": "lerobot/pusht_keypoints",
+      "url": "https://huggingface.co/datasets/lerobot/pusht_keypoints"
+    },
+    {
+      "id": "lerobot/xarm_lift_medium",
+      "url": "https://huggingface.co/datasets/lerobot/xarm_lift_medium"
+    },
+    {
+      "id": "lerobot/xarm_lift_medium_image",
+      "url": "https://huggingface.co/datasets/lerobot/xarm_lift_medium_image"
+    },
+    {
+      "id": "lerobot/xarm_lift_medium_replay",
+      "url": "https://huggingface.co/datasets/lerobot/xarm_lift_medium_replay"
+    },
+    {
+      "id": "lerobot/xarm_lift_medium_replay_image",
+      "url": "https://huggingface.co/datasets/lerobot/xarm_lift_medium_replay_image"
+    },
+    {
+      "id": "lerobot/xarm_push_medium",
+      "url": "https://huggingface.co/datasets/lerobot/xarm_push_medium"
+    },
+    {
+      "id": "lerobot/xarm_push_medium_image",
+      "url": "https://huggingface.co/datasets/lerobot/xarm_push_medium_image"
+    },
+    {
+      "id": "lerobot/xarm_push_medium_replay",
+      "url": "https://huggingface.co/datasets/lerobot/xarm_push_medium_replay"
+    },
+    {
+      "id": "lerobot/xarm_push_medium_replay_image",
+      "url": "https://huggingface.co/datasets/lerobot/xarm_push_medium_replay_image"
+    },
+    {
+      "id": "lerobot/unitreeh1_fold_clothes",
+      "url": "https://huggingface.co/datasets/lerobot/unitreeh1_fold_clothes"
+    },
+    {
+      "id": "lerobot/unitreeh1_rearrange_objects",
+      "url": "https://huggingface.co/datasets/lerobot/unitreeh1_rearrange_objects"
+    },
+    {
+      "id": "lerobot/unitreeh1_two_robot_greeting",
+      "url": "https://huggingface.co/datasets/lerobot/unitreeh1_two_robot_greeting"
+    },
+    {
+      "id": "lerobot/unitreeh1_warehouse",
+      "url": "https://huggingface.co/datasets/lerobot/unitreeh1_warehouse"
+    },
+    {
+      "id": "Sylvest/libero_plus_lerobot",
+      "url": "https://huggingface.co/datasets/Sylvest/libero_plus_lerobot"
+    },
+    {
+      "id": "DexJoCo/DexJoCo-Datasets-LeRobot",
+      "url": "https://huggingface.co/datasets/DexJoCo/DexJoCo-Datasets-LeRobot"
+    },
+    {
+      "id": "TommyZihao/lerobot_zihao_dataset_shake_hands",
+      "url": "https://huggingface.co/datasets/TommyZihao/lerobot_zihao_dataset_shake_hands"
+    },
+    {
+      "id": "IPEC-COMMUNITY/FastUMI_100k_lerobot",
+      "url": "https://huggingface.co/datasets/IPEC-COMMUNITY/FastUMI_100k_lerobot"
+    },
+    {
+      "id": "huanbo1/pipette-lerobot-datasets",
+      "url": "https://huggingface.co/datasets/huanbo1/pipette-lerobot-datasets"
+    },
+    {
+      "id": "lerobot-raw/pusht_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/pusht_raw"
+    },
+    {
+      "id": "lerobot-raw/umi_cup_in_the_wild_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/umi_cup_in_the_wild_raw"
+    },
+    {
+      "id": "lerobot-raw/aloha_sim_transfer_cube_human_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/aloha_sim_transfer_cube_human_raw"
+    },
+    {
+      "id": "lerobot-raw/aloha_sim_transfer_cube_scripted_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/aloha_sim_transfer_cube_scripted_raw"
+    },
+    {
+      "id": "lerobot-raw/aloha_sim_insertion_human_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/aloha_sim_insertion_human_raw"
+    },
+    {
+      "id": "lerobot-raw/aloha_sim_insertion_scripted_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/aloha_sim_insertion_scripted_raw"
+    },
+    {
+      "id": "lerobot-raw/aloha_mobile_cabinet_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/aloha_mobile_cabinet_raw"
+    },
+    {
+      "id": "lerobot-raw/aloha_mobile_chair_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/aloha_mobile_chair_raw"
+    },
+    {
+      "id": "lerobot-raw/aloha_mobile_elevator_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/aloha_mobile_elevator_raw"
+    },
+    {
+      "id": "lerobot-raw/aloha_mobile_shrimp_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/aloha_mobile_shrimp_raw"
+    },
+    {
+      "id": "lerobot-raw/aloha_mobile_wash_pan_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/aloha_mobile_wash_pan_raw"
+    },
+    {
+      "id": "lerobot-raw/aloha_mobile_wipe_wine_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/aloha_mobile_wipe_wine_raw"
+    },
+    {
+      "id": "lerobot-raw/xarm_lift_medium_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/xarm_lift_medium_raw"
+    },
+    {
+      "id": "lerobot-raw/xarm_lift_medium_replay_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/xarm_lift_medium_replay_raw"
+    },
+    {
+      "id": "lerobot-raw/xarm_push_medium_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/xarm_push_medium_raw"
+    },
+    {
+      "id": "lerobot-raw/xarm_push_medium_replay_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/xarm_push_medium_replay_raw"
+    },
+    {
+      "id": "lerobot-raw/unitreeh1_fold_clothes_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/unitreeh1_fold_clothes_raw"
+    },
+    {
+      "id": "lerobot-raw/unitreeh1_rearrange_objects_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/unitreeh1_rearrange_objects_raw"
+    },
+    {
+      "id": "lerobot-raw/unitreeh1_two_robot_greeting_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/unitreeh1_two_robot_greeting_raw"
+    },
+    {
+      "id": "lerobot-raw/unitreeh1_warehouse_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/unitreeh1_warehouse_raw"
+    },
+    {
+      "id": "lerobot-raw/conq_hose_manipulation_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/conq_hose_manipulation_raw"
+    },
+    {
+      "id": "lerobot-raw/tokyo_u_lsmo_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/tokyo_u_lsmo_raw"
+    },
+    {
+      "id": "lerobot-raw/imperialcollege_sawyer_wrist_cam_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/imperialcollege_sawyer_wrist_cam_raw"
+    },
+    {
+      "id": "lerobot-raw/usc_cloth_sim_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/usc_cloth_sim_raw"
+    },
+    {
+      "id": "lerobot-raw/asu_table_top_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/asu_table_top_raw"
+    },
+    {
+      "id": "lerobot-raw/cmu_franka_exploration_dataset_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/cmu_franka_exploration_dataset_raw"
+    },
+    {
+      "id": "lerobot-raw/cmu_stretch_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/cmu_stretch_raw"
+    },
+    {
+      "id": "lerobot-raw/nyu_rot_dataset_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/nyu_rot_dataset_raw"
+    },
+    {
+      "id": "lerobot-raw/tidybot_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/tidybot_raw"
+    },
+    {
+      "id": "lerobot-raw/utokyo_pr2_opening_fridge_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/utokyo_pr2_opening_fridge_raw"
+    },
+    {
+      "id": "lerobot-raw/fractal20220817_data_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/fractal20220817_data_raw"
+    },
+    {
+      "id": "IPEC-COMMUNITY/fractal20220817_data_lerobot",
+      "url": "https://huggingface.co/datasets/IPEC-COMMUNITY/fractal20220817_data_lerobot"
+    },
+    {
+      "id": "lerobot/taco_play",
+      "url": "https://huggingface.co/datasets/lerobot/taco_play"
+    },
+    {
+      "id": "IPEC-COMMUNITY/taco_play_lerobot",
+      "url": "https://huggingface.co/datasets/IPEC-COMMUNITY/taco_play_lerobot"
+    },
+    {
+      "id": "lerobot/jaco_play",
+      "url": "https://huggingface.co/datasets/lerobot/jaco_play"
+    },
+    {
+      "id": "lerobot-raw/jaco_play_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/jaco_play_raw"
+    },
+    {
+      "id": "lerobot/roboturk",
+      "url": "https://huggingface.co/datasets/lerobot/roboturk"
+    },
+    {
+      "id": "lerobot-raw/roboturk_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/roboturk_raw"
+    },
+    {
+      "id": "lerobot/fmb",
+      "url": "https://huggingface.co/datasets/lerobot/fmb"
+    },
+    {
+      "id": "lerobot-raw/fmb_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/fmb_raw"
+    },
+    {
+      "id": "lerobot/stanford_kuka_multimodal_dataset",
+      "url": "https://huggingface.co/datasets/lerobot/stanford_kuka_multimodal_dataset"
+    },
+    {
+      "id": "lerobot-raw/stanford_kuka_multimodal_dataset_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/stanford_kuka_multimodal_dataset_raw"
+    },
+    {
+      "id": "IPEC-COMMUNITY/language_table_lerobot",
+      "url": "https://huggingface.co/datasets/IPEC-COMMUNITY/language_table_lerobot"
+    },
+    {
+      "id": "lerobot-raw/language_table_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/language_table_raw"
+    },
+    {
+      "id": "IPEC-COMMUNITY/furniture_bench_dataset_lerobot",
+      "url": "https://huggingface.co/datasets/IPEC-COMMUNITY/furniture_bench_dataset_lerobot"
+    },
+    {
+      "id": "lerobot-raw/furniture_bench_dataset_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/furniture_bench_dataset_raw"
+    },
+    {
+      "id": "IPEC-COMMUNITY/dobbe_lerobot",
+      "url": "https://huggingface.co/datasets/IPEC-COMMUNITY/dobbe_lerobot"
+    },
+    {
+      "id": "lerobot-raw/dobbe_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/dobbe_raw"
+    },
+    {
+      "id": "lerobot-raw/robo_net_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/robo_net_raw"
+    },
+    {
+      "id": "lerobot-raw/robo_set_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/robo_set_raw"
+    },
+    {
+      "id": "lerobot-raw/bc_z_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/bc_z_raw"
+    },
+    {
+      "id": "lerobot-raw/kuka_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/kuka_raw"
+    },
+    {
+      "id": "lerobot-raw/mimic_play_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/mimic_play_raw"
+    },
+    {
+      "id": "lerobot-raw/viola_raw",
+      "url": "https://huggingface.co/datasets/lerobot-raw/viola_raw"
+    },
+    {
+      "id": "nvidia/PhysicalAI-Human-1M-100K",
+      "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K"
+    },
+    {
+      "id": "LightwheelAI/EgoDemo",
+      "url": "https://huggingface.co/datasets/LightwheelAI/EgoDemo"
+    },
+    {
+      "id": "LightwheelAI/EgoPro",
+      "url": "https://huggingface.co/datasets/LightwheelAI/EgoPro"
+    },
+    {
+      "id": "LightwheelAI/EgoStandard",
+      "url": "https://huggingface.co/datasets/LightwheelAI/EgoStandard"
+    },
+    {
+      "id": "EgoSteer/EgoSteer-Egocentric",
+      "url": "https://huggingface.co/datasets/EgoSteer/EgoSteer-Egocentric"
+    }
+  ]
+}
