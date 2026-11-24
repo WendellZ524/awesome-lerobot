@@ -467,6 +467,18 @@
     {
       "id": "EgoSteer/EgoSteer-Egocentric",
       "url": "https://huggingface.co/datasets/EgoSteer/EgoSteer-Egocentric"
+    },
+    {
+      "id": "HumanCOIN/l1_balcony_clean_task_1600x1300_30fps_2views",
+      "url": "https://huggingface.co/datasets/HumanCOIN/l1_balcony_clean_task_1600x1300_30fps_2views"
+    },
+    {
+      "id": "HumanCOIN/l2_dining_room_arrange_candy_left_1920x1200_30fps_9views_emg8",
+      "url": "https://huggingface.co/datasets/HumanCOIN/l2_dining_room_arrange_candy_left_1920x1200_30fps_9views_emg8"
+    },
+    {
+      "id": "HumanCOIN/l3_beverage_shop_pour_beverage_left_1920x1184_30fps_11views_eeg128_emg8",
+      "url": "https://huggingface.co/datasets/HumanCOIN/l3_beverage_shop_pour_beverage_left_1920x1184_30fps_11views_eeg128_emg8"
     }
   ]
 }

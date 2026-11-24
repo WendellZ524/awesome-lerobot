@@ -31,6 +31,13 @@ The [Data Pyramid audit](docs/DATA_PYRAMID_COVERAGE.md) checks the November 2026
 
 ## 2026
 
+### HumanCOIN
+
+HumanCOIN pairs first-person manipulation with multiview RGB, depth, head and wrist 6-DoF poses, and step-level action and object annotations. The paper reports 12,500 hours across 38 scene classes. L1 includes inferred gaze (10,000 h), L2 adds surface EMG (2,000 h), and L3 adds EEG (500 h). L3 also measures hand pose and finger kinematics directly, making it the first tier to inspect for a hand-rig evaluation. [Paper](https://arxiv.org/abs/2611.26434) · [Project](https://flagopen.github.io/HumanCOIN/) · [Publisher directory](https://huggingface.co/HumanCOIN/datasets)
+
+Representative task repositories: [L1](https://huggingface.co/datasets/HumanCOIN/l1_balcony_clean_task_1600x1300_30fps_2views) · [L2](https://huggingface.co/datasets/HumanCOIN/l2_dining_room_arrange_candy_left_1920x1200_30fps_9views_emg8) · [L3](https://huggingface.co/datasets/HumanCOIN/l3_beverage_shop_pour_beverage_left_1920x1184_30fps_11views_eeg128_emg8). All three list gated access and CC BY-NC 4.0. Their file indexes expose LeRobot-style metadata; the exact format version and per-joint rotation fields require access to the gated schema.
+
+
 ### Egocentric manipulation releases reviewed 2026-11-23
 
 Acquisition order for wrist pose in camera coordinates and articulated hands. Start with a workbench episode; verify camera calibration, joint conventions, timestamps, visibility and rights before scaling.
